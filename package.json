@@ -1,6 +1,6 @@
 {
   "name": "netlify-plugin-tradly",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Netlify Build plugin - Making deployment on Netlify is even faster now. A single auth will get all your configs from Tradly Headless API to launch commerce and marketplace apps blazing fast.",
   "main": "src/index.js",
   "files": [
